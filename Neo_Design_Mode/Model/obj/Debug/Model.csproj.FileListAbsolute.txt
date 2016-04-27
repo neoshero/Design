@@ -1,0 +1,5 @@
+E:\Asp.net_Study\Neo_Design_Mode\Model\bin\Debug\Model.dll
+E:\Asp.net_Study\Neo_Design_Mode\Model\bin\Debug\Model.pdb
+E:\Asp.net_Study\Neo_Design_Mode\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Asp.net_Study\Neo_Design_Mode\Model\obj\Debug\Model.dll
+E:\Asp.net_Study\Neo_Design_Mode\Model\obj\Debug\Model.pdb
